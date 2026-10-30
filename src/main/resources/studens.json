@@ -4,28 +4,28 @@
     "books": [
       {
         "title": "The Idiot",
-        "author": "Fyodor Dostoevsky",
-        "year": 1869
+        "year": 1869,
+        "pages": 640
       },
       {
         "title": "Anna Karenina",
-        "author": "Leo Tolstoy",
-        "year": 1877
+        "year": 1877,
+        "pages": 864
       },
       {
         "title": "Heart of a Dog",
-        "author": "Mikhail Bulgakov",
-        "year": 1925
+        "year": 1925,
+        "pages": 128
       },
       {
         "title": "The Fate of a Man",
-        "author": "Mikhail Sholokhov",
-        "year": 1956
+        "year": 1956,
+        "pages": 160
       },
       {
         "title": "Mumu",
-        "author": "Ivan Turgenev",
-        "year": 1854
+        "year": 1854,
+        "pages": 64
       }
     ]
   },
@@ -34,28 +34,28 @@
     "books": [
       {
         "title": "War and Peace",
-        "author": "Leo Tolstoy",
-        "year": 1869
+        "year": 1869,
+        "pages": 1225
       },
       {
         "title": "Crime and Punishment",
-        "author": "Fyodor Dostoevsky",
-        "year": 1866
+        "year": 1866,
+        "pages": 671
       },
       {
         "title": "The Master and Margarita",
-        "author": "Mikhail Bulgakov",
-        "year": 1967
+        "year": 1967,
+        "pages": 384
       },
       {
         "title": "And Quiet Flows the Don",
-        "author": "Mikhail Sholokhov",
-        "year": 1940
+        "year": 1940,
+        "pages": 1600
       },
       {
         "title": "Fathers and Sons",
-        "author": "Ivan Turgenev",
-        "year": 1862
+        "year": 1862,
+        "pages": 226
       }
     ]
   },
@@ -64,28 +64,28 @@
     "books": [
       {
         "title": "Eugene Onegin",
-        "author": "Alexander Pushkin",
-        "year": 1833
+        "year": 1833,
+        "pages": 224
       },
       {
         "title": "A Hero of Our Time",
-        "author": "Mikhail Lermontov",
-        "year": 1840
+        "year": 1840,
+        "pages": 144
       },
       {
         "title": "Dead Souls",
-        "author": "Nikolai Gogol",
-        "year": 1842
+        "year": 1842,
+        "pages": 352
       },
       {
         "title": "Oblomov",
-        "author": "Ivan Goncharov",
-        "year": 1859
+        "year": 1859,
+        "pages": 512
       },
       {
         "title": "The Storm",
-        "author": "Alexander Ostrovsky",
-        "year": 1859
+        "year": 1859,
+        "pages": 128
       }
     ]
   },
@@ -94,28 +94,28 @@
     "books": [
       {
         "title": "1984",
-        "author": "George Orwell",
-        "year": 1949
+        "year": 1949,
+        "pages": 328
       },
       {
         "title": "Brave New World",
-        "author": "Aldous Huxley",
-        "year": 1932
+        "year": 1932,
+        "pages": 311
       },
       {
         "title": "Fahrenheit 451",
-        "author": "Ray Bradbury",
-        "year": 1953
+        "year": 1953,
+        "pages": 256
       },
       {
         "title": "Animal Farm",
-        "author": "George Orwell",
-        "year": 1945
+        "year": 1945,
+        "pages": 112
       },
       {
         "title": "We",
-        "author": "Yevgeny Zamyatin",
-        "year": 1920
+        "year": 1920,
+        "pages": 224
       }
     ]
   },
@@ -124,28 +124,28 @@
     "books": [
       {
         "title": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "year": 1997
+        "year": 1997,
+        "pages": 332
       },
       {
         "title": "The Lord of the Rings",
-        "author": "J. R. R. Tolkien",
-        "year": 1954
+        "year": 1954,
+        "pages": 1178
       },
       {
         "title": "The Hobbit",
-        "author": "J. R. R. Tolkien",
-        "year": 1937
+        "year": 1937,
+        "pages": 310
       },
       {
         "title": "The Chronicles of Narnia",
-        "author": "C. S. Lewis",
-        "year": 1950
+        "year": 1950,
+        "pages": 767
       },
       {
         "title": "A Song of Ice and Fire",
-        "author": "George R. R. Martin",
-        "year": 1996
+        "year": 1996,
+        "pages": 694
       }
     ]
   }

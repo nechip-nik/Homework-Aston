@@ -7,34 +7,36 @@ import java.util.Objects;
 
 public final class Book {
     private final String title;
-    private final String author;
     private final int year;
+    private final int pages;
 
     @JsonCreator
-    public Book(@JsonProperty("title") String title, @JsonProperty("author") String author, @JsonProperty("year") int year) {
+    public Book(@JsonProperty("title") String title, @JsonProperty("year") int year, @JsonProperty("pages") int pages) {
         this.title = title;
-        this.author = author;
         this.year = year;
+        this.pages = pages;
     }
 
     public String getTitle() {
         return title;
     }
 
-    public String getAuthor() {
-        return author;
-    }
 
     public int getYear() {
         return year;
     }
 
+    public int getPages() {
+        return pages;
+    }
+
+
     @Override
     public String toString() {
         return "Book{" +
                 "title=" + title +
-                ", author=" + author +
-                ", year=" + year + "}";
+                ", year=" + year +
+                ", pages=" + pages + "}";
     }
 
     @Override
@@ -42,11 +44,11 @@ public final class Book {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Book book = (Book) o;
-        return year == book.year && Objects.equals(title, book.title) && Objects.equals(author, book.author);
+        return year == book.year && pages == book.pages && Objects.equals(title, book.title);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(title, author, year);
+        return Objects.hash(title, year, pages);
     }
 }
