@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ivan",
+    "books": [
+      { "title": "The Idiot", "author": "Fyodor Dostoevsky", "year": 1869 },
+      { "title": "Anna Karenina", "author": "Leo Tolstoy", "year": 1877 },
+      { "title": "Heart of a Dog", "author": "Mikhail Bulgakov", "year": 1925 },
+      { "title": "The Fate of a Man", "author": "Mikhail Sholokhov", "year": 1956 },
+      { "title": "Mumu", "author": "Ivan Turgenev", "year": 1854 }
+    ]
+  },
+  {
+    "name": "Nikita",
+    "books": [
+      { "title": "War and Peace", "author": "Leo Tolstoy", "year": 1869 },
+      { "title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "year": 1866 },
+      { "title": "The Master and Margarita", "author": "Mikhail Bulgakov", "year": 1967 },
+      { "title": "And Quiet Flows the Don", "author": "Mikhail Sholokhov", "year": 1940 },
+      { "title": "Fathers and Sons", "author": "Ivan Turgenev", "year": 1862 }
+    ]
+  },
+  {
+    "name": "Anna",
+    "books": [
+      { "title": "Eugene Onegin", "author": "Alexander Pushkin", "year": 1833 },
+      { "title": "A Hero of Our Time", "author": "Mikhail Lermontov", "year": 1840 },
+      { "title": "Dead Souls", "author": "Nikolai Gogol", "year": 1842 },
+      { "title": "Oblomov", "author": "Ivan Goncharov", "year": 1859 },
+      { "title": "The Storm", "author": "Alexander Ostrovsky", "year": 1859 }
+    ]
+  },
+  {
+    "name": "Sergey",
+    "books": [
+      { "title": "1984", "author": "George Orwell", "year": 1949 },
+      { "title": "Brave New World", "author": "Aldous Huxley", "year": 1932 },
+      { "title": "Fahrenheit 451", "author": "Ray Bradbury", "year": 1953 },
+      { "title": "Animal Farm", "author": "George Orwell", "year": 1945 },
+      { "title": "We", "author": "Yevgeny Zamyatin", "year": 1920 }
+    ]
+  },
+  {
+    "name": "Maria",
+    "books": [
+      { "title": "Harry Potter and the Philosopher's Stone", "author": "J. K. Rowling", "year": 1997 },
+      { "title": "The Lord of the Rings", "author": "J. R. R. Tolkien", "year": 1954 },
+      { "title": "The Hobbit", "author": "J. R. R. Tolkien", "year": 1937 },
+      { "title": "The Chronicles of Narnia", "author": "C. S. Lewis", "year": 1950 },
+      { "title": "A Song of Ice and Fire", "author": "George R. R. Martin", "year": 1996 }
+    ]
+  }
+]
