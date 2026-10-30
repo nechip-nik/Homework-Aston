@@ -8,7 +8,8 @@ import java.util.Objects;
 
 public final class Student {
     private final String name;
-    private final List<Book>  books;
+    private final List<Book> books;
+
     @JsonCreator
     public Student(@JsonProperty("name") String name, @JsonProperty("books") List<Book> books) {
         if (books == null || books.size() < 5) {
@@ -17,9 +18,11 @@ public final class Student {
         this.name = name;
         this.books = List.copyOf(books);
     }
+
     public String getName() {
         return name;
     }
+
     public List<Book> getBooks() {
         return books;
     }
@@ -36,6 +39,7 @@ public final class Student {
     public int hashCode() {
         return Objects.hash(name, books);
     }
+
     @Override
     public String toString() {
         return getName() + ":" + books;

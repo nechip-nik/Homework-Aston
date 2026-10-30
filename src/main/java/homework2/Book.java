@@ -17,7 +17,6 @@ public final class Book {
         this.year = year;
     }
 
-
     public String getTitle() {
         return title;
     }
