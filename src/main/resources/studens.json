@@ -8,9 +8,9 @@
         "pages": 640
       },
       {
-        "title": "Anna Karenina",
-        "year": 1877,
-        "pages": 864
+        "title": "The Da Vinci Code",
+        "year": 2003,
+        "pages": 489
       },
       {
         "title": "Heart of a Dog",
@@ -18,14 +18,14 @@
         "pages": 128
       },
       {
-        "title": "The Fate of a Man",
-        "year": 1956,
-        "pages": 160
-      },
-      {
         "title": "Mumu",
         "year": 1854,
         "pages": 64
+      },
+      {
+        "title": "The Kite Runner",
+        "year": 2003,
+        "pages": 371
       }
     ]
   },
@@ -48,9 +48,9 @@
         "pages": 384
       },
       {
-        "title": "And Quiet Flows the Don",
-        "year": 1940,
-        "pages": 1600
+        "title": "The Shadow of the Wind",
+        "year": 2001,
+        "pages": 487
       },
       {
         "title": "Fathers and Sons",
@@ -73,9 +73,9 @@
         "pages": 144
       },
       {
-        "title": "Dead Souls",
-        "year": 1842,
-        "pages": 352
+        "title": "The Alchemist",
+        "year": 2001,
+        "pages": 163
       },
       {
         "title": "Oblomov",
@@ -98,9 +98,9 @@
         "pages": 328
       },
       {
-        "title": "Brave New World",
-        "year": 1932,
-        "pages": 311
+        "title": "Life of Pi",
+        "year": 2001,
+        "pages": 319
       },
       {
         "title": "Fahrenheit 451",
@@ -123,9 +123,9 @@
     "name": "Maria",
     "books": [
       {
-        "title": "Harry Potter and the Philosopher's Stone",
-        "year": 1997,
-        "pages": 332
+        "title": "The Book Thief",
+        "year": 2005,
+        "pages": 552
       },
       {
         "title": "The Lord of the Rings",

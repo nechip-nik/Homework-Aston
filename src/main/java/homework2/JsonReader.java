@@ -11,7 +11,7 @@ public class JsonReader {
 
     public List<Student> readJson(String path) throws IOException {
 
-        try (InputStream inputStream = JsonReader.class.getClassLoader().getResourceAsStream(path);) {
+        try (InputStream inputStream = JsonReader.class.getClassLoader().getResourceAsStream(path)) {
             if (inputStream == null) {
                 throw new FileNotFoundException("File not found: " + path);
             }
