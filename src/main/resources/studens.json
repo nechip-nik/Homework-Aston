@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Ivan",
+    "books": [
+      {
+        "title": "The Idiot",
+        "year": 1869,
+        "pages": 640
+      },
+      {
+        "title": "The Da Vinci Code",
+        "year": 2003,
+        "pages": 489
+      },
+      {
+        "title": "Heart of a Dog",
+        "year": 1925,
+        "pages": 128
+      },
+      {
+        "title": "Mumu",
+        "year": 1854,
+        "pages": 64
+      },
+      {
+        "title": "The Kite Runner",
+        "year": 2003,
+        "pages": 371
+      }
+    ]
+  },
+  {
+    "name": "Nikita",
+    "books": [
+      {
+        "title": "War and Peace",
+        "year": 1869,
+        "pages": 1225
+      },
+      {
+        "title": "Crime and Punishment",
+        "year": 1866,
+        "pages": 671
+      },
+      {
+        "title": "The Master and Margarita",
+        "year": 1967,
+        "pages": 384
+      },
+      {
+        "title": "The Shadow of the Wind",
+        "year": 2001,
+        "pages": 487
+      },
+      {
+        "title": "Fathers and Sons",
+        "year": 1862,
+        "pages": 226
+      }
+    ]
+  },
+  {
+    "name": "Anna",
+    "books": [
+      {
+        "title": "Eugene Onegin",
+        "year": 1833,
+        "pages": 224
+      },
+      {
+        "title": "A Hero of Our Time",
+        "year": 1840,
+        "pages": 144
+      },
+      {
+        "title": "The Alchemist",
+        "year": 2001,
+        "pages": 163
+      },
+      {
+        "title": "Oblomov",
+        "year": 1859,
+        "pages": 512
+      },
+      {
+        "title": "The Storm",
+        "year": 1859,
+        "pages": 128
+      }
+    ]
+  },
+  {
+    "name": "Sergey",
+    "books": [
+      {
+        "title": "1984",
+        "year": 1949,
+        "pages": 328
+      },
+      {
+        "title": "Life of Pi",
+        "year": 2001,
+        "pages": 319
+      },
+      {
+        "title": "Fahrenheit 451",
+        "year": 1953,
+        "pages": 256
+      },
+      {
+        "title": "Animal Farm",
+        "year": 1945,
+        "pages": 112
+      },
+      {
+        "title": "We",
+        "year": 1920,
+        "pages": 224
+      }
+    ]
+  },
+  {
+    "name": "Maria",
+    "books": [
+      {
+        "title": "The Book Thief",
+        "year": 2005,
+        "pages": 552
+      },
+      {
+        "title": "The Lord of the Rings",
+        "year": 1954,
+        "pages": 1178
+      },
+      {
+        "title": "The Hobbit",
+        "year": 1937,
+        "pages": 310
+      },
+      {
+        "title": "The Chronicles of Narnia",
+        "year": 1950,
+        "pages": 767
+      },
+      {
+        "title": "A Song of Ice and Fire",
+        "year": 1996,
+        "pages": 694
+      }
+    ]
+  }
+]
