@@ -5,6 +5,7 @@ public class DVDStrategy implements DeliveryStrategy {
     public String getDeliveryInfo(String movie) {
         return "Your DVD(" + movie + ")will be delivered in 4 days.";
     }
+
     @Override
     public double getModifyPrice() {
         return 1.6;

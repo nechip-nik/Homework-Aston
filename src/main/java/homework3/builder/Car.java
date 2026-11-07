@@ -10,7 +10,7 @@ public class Car {
     private final int power;
     private final int torque;
 
-    public Car(Builder builder) {
+    private Car(Builder builder) {
         this.model = builder.model;
         this.year = builder.year;
         this.price = builder.price;
@@ -69,9 +69,9 @@ public class Car {
     }
 
     public static class Builder {
-        private String model;
-        private int year;
-        private double price;
+        private final String model;
+        private final int year;
+        private final double price;
         private String color;
         private int power;
         private int torque;

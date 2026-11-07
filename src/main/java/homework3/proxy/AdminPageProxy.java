@@ -1,6 +1,6 @@
 package homework3.proxy;
 
-public class AdminPageProxy implements WebPage{
+public class AdminPageProxy implements WebPage {
     private final RealAdminPage realAdminPage = new RealAdminPage();
     private final String requiredRole; // например, "admin"
 

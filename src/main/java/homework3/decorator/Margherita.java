@@ -6,6 +6,7 @@ public class Margherita implements Pizza {
     public String getIngredients() {
         return "Margherita (cheese, tomatoes, dough)";
     }
+
     @Override
     public int getCost() {
         return 200;

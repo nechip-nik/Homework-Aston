@@ -1,7 +1,7 @@
 package homework3.adapter;
 
 public class PhilipsHueAdapter implements SmartLamp {
-    private PhilipsHueApi philipsHueApi;
+    private final PhilipsHueApi philipsHueApi;
 
     public PhilipsHueAdapter(PhilipsHueApi philipsHueApi) {
         this.philipsHueApi = philipsHueApi;

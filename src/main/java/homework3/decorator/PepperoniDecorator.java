@@ -5,12 +5,14 @@ public class PepperoniDecorator extends PizzaDecorator {
     public PepperoniDecorator(Pizza pizza) {
         super(pizza);
     }
+
     @Override
     public String getIngredients() {
-        return pizza.getIngredients() + "+ pepperoni";
+        return pizza.getIngredients() + " + pepperoni";
     }
-    public int getCost()
-    {
+
+    @Override
+    public int getCost() {
         return pizza.getCost() + 10;
     }
 }

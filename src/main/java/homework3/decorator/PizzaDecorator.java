@@ -12,6 +12,7 @@ public class PizzaDecorator implements Pizza {
     public int getCost() {
         return pizza.getCost();
     }
+
     @Override
     public String getIngredients() {
         return pizza.getIngredients();

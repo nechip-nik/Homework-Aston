@@ -2,7 +2,7 @@ package homework3.adapter;
 
 
 public class XiaomiAdapter implements SmartLamp {
-    private XiaomiLampApi xiaomiApi;
+    private final XiaomiLampApi xiaomiApi;
 
     public XiaomiAdapter(XiaomiLampApi xiaomiApi) {
         this.xiaomiApi = xiaomiApi;
