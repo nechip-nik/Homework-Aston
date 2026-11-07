@@ -7,9 +7,6 @@ public class PizzaDecorator implements Pizza {
         this.pizza = pizza;
     }
 
-    public Pizza getPizza() {
-        return pizza;
-    }
 
     @Override
     public int getCost() {
