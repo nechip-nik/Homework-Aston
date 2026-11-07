@@ -11,8 +11,16 @@ public class Main {
         design.setNext(paper);
         paper.setNext(post);
 
-        PrintOrder order = new PrintOrder("business cards", true, true, true);
-        payment.handle(order);
+        PrintOrder order1 = new PrintOrder("business cards", true, true, true);
+        payment.handle(order1);
 
+        PrintOrder order2 = new PrintOrder("banners", false, true, true);
+        payment.handle(order2);
+
+        PrintOrder order3 = new PrintOrder("flyers", true, false, true);
+        payment.handle(order3);
+
+        PrintOrder order4 = new PrintOrder("posters", true, true, false);
+        payment.handle(order4);
     }
 }

@@ -6,6 +6,7 @@ public abstract class PrintOrderHandler {
     public void setNext(PrintOrderHandler next) {
         this.next = next;
     }
+
     public abstract void handle(PrintOrder order);
 
 }
