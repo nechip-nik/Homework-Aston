@@ -4,7 +4,7 @@ public class TwoThreads {
     private static final Object lock = new Object();
     private static boolean turn = true;
     private static int count = 0;
-    private static final int  MAX_COUNT = 100;
+    private static final int MAX_COUNT = 100;
 
     public static void main(String[] args) throws InterruptedException {
         Thread thread1 = new Thread(() -> {
