@@ -48,7 +48,6 @@ public class TwoThreads {
                     System.out.print("2 ");
                     count++;
                     turn = true;
-
                     lock.notify();
                 }
             }
