@@ -36,8 +36,8 @@ public class BankAccount {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        BankAccount that = (BankAccount) o;
-        return id == that.id && balance == that.balance;
+        BankAccount account = (BankAccount) o;
+        return id == account.id && balance == account.balance;
     }
 
     @Override
